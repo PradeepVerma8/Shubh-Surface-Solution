@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* FIX NAVBAR GAP FOR CATALOG PAGE */
+nav {
+  top: 0 !important;
+}
+
+.catalogs-section {
+  padding-top: 80px !important;  /* अगर navbar की height 64px है तो 80px perfect बैठता है */
+}
