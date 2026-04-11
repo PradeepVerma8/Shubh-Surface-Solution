@@ -173,9 +173,9 @@ const CatalogsSection = () => {
       description:
         "Our Acrylic Sheets Master Catalog provides a complete overview of premium-grade cast and extruded acrylic materials engineered for modern industries. Designed for signage, fabrication, retail displays, interiors, architecture, CNC machining, and high-impact engineering applications, this catalog explains thickness options, light transmission behavior, thermal stability, flame ratings, and surface finishing technologies including matte, gloss, texture and UV-layer protection.",
       sliderImages: [
-        "https://www.acmeplastics.com/mm5/graphics/00000001/acrylic-cast-color_450x450.png",
-        "https://img.staticmb.com/mbcontent/images/crop/uploads/2023/6/acrylic-sheet_0_1200.jpg.webp",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAsKUd_3BirkSLmZ27hrq5nDbn0DZWGQQlEIyKAP8cw&s",
+        "https://paintingdrive.com/blog/wp-content/uploads/2024/06/Laminate-Kitchen-Or-Acrylic-Kitchen-Which-Kitchen-Cabinet-Finish-is-the-Best.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95rPEyjYaNbVg14nZ2No3S8kAO4mNjiwjzA&s",
+        "https://image.made-in-china.com/2f0j00ULMfVOqCfKkc/Solid-Color-Metallic-Color-1220-2440-1mm-Acrylic-Sheet-for-Kitchen-Cabinet-Door-ZH-8603-.webp",
       ],
       printPath: "/catalogs/acrylic-catalog-print.html",
       pdfPath: "/catalogs/acrylic-catalog.pdf",

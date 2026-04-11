@@ -26,7 +26,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-3">
               {/* Yahi pe aapka logo lagega */}
-              <img className="h-24 w-auto object-contain mt-4 " src="../../public/img/bm.png"/>
+              <img className="h-24 w-auto object-contain mt-4 " src="/img/bm.png"/>
               <div className="flex flex-col leading-tight">
                 <span className="text-lg font-bold text-gray-900 tracking-[0.15em]">
                   SHUBH SURFACE

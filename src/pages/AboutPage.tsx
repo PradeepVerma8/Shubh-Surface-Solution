@@ -77,11 +77,18 @@ From day one, our commitment has been simple — quality first, customer first. 
             </div>
             <div>
 
-              <img
-                src="../../public/img/nn.jpg"
+                <img
+  src="/img/img.jpg"
+  alt="Our Office"
+  className="rounded-2xl shadow-2xl w-full h-96 object-cover"
+/>
+
+
+              {/* <img
+                src="/project/dist/img/img.jpg"
                 alt="Our Office"
                 className="rounded-2xl shadow-2xl w-full h-96 object-cover"
-              />
+              /> */}
             </div>
           </div>
         </div>

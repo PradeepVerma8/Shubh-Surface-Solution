@@ -55,6 +55,7 @@ const Footer = () => {
               <li>Plant Setup</li>
               <li>Acrylic Laminate</li>
               <li>UV Coating</li>
+              <li>Extruder</li>
               <li>Technical Support</li>
               <li>Strategic Planning & Consulting</li>
             </ul>
@@ -72,14 +73,14 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
                 <a href="tel:8112518917" className="text-gray-300 hover:text-white transition-colors text-sm sm:text-base">
-                  8112518917
+                  8382075386
                 </a>
               </div>
 
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
                 <a href="mailto:1998shubham2017@gmail.com" className="text-gray-300 hover:text-white transition-colors text-sm sm:text-base">
-                  1998shubham2017@gmail.com
+                  s.s.s.solutions07@gmail.com
                 </a>
               </div>
             </div>
