@@ -18,11 +18,11 @@ const ServicesPage = () => {
       title: "UV Coating",
       description: "High-precision UV coating solutions designed for acrylic sheets, signage, labels, and premium packaging.",
       features: ["Fast Curing for High-Speed Production", "UV, Scratch & Chemical Resistant Surface", "High Gloss & Matte UV Finish Options", "Dust-Free, Spot-Free Premium Coating"],
-      image: "https://iprorwxhjljpli5q-static.micyjz.com/cloud/liBpoKnklkSRkjjimkoliq/1.jpg"
+      image: "https://s.alicdn.com/@sc04/kf/H5c46a0d9377d49f4a94c64d8ed38b1987.jpg?avif=close&webp=close"
     },
     {
       icon: Cloud,
-      title: "Stategice Planning",
+      title: "Strategies Planning",
       description: "High-performance acrylic sheet manufacturing and supply solutions for modern industrial needs",
       features: ["Quality Inspection", "Custom Print Design", "Logistics Management"],
       image: "https://www.oryxalign.com/hubfs/AdobeStock_568987680.jpeg"

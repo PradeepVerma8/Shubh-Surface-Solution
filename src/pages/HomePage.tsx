@@ -141,11 +141,10 @@ const HomePage = () => {
 
   // 5 image premium slider (replace with your own machine photos)
   const machineImages = [
-    // 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1600&q=80',
-    'https://cdn.globalso.com/eureka-machinery/HIS-1450W-11.jpg',
-    'https://img.freepik.com/free-photo/manufacture-steel-machine-with-control-computer-clear-room_645730-186.jpg?semt=ais_incoming&w=740&q=80',
     'https://s.alicdn.com/@sc04/kf/H36591391f2b24502b6eb844309b8a187c.jpg?avif=close&webp=close',
-    'https://s.alicdn.com/@sc04/kf/H5169e63e4acc447698d366cb782c7c17S.png?avif=close&webp=close'
+    'https://s.alicdn.com/@sc04/kf/H5169e63e4acc447698d366cb782c7c17S.png?avif=close&webp=close',
+    'https://media.licdn.com/dms/image/v2/D4D22AQEagxRLyijtKA/feedshare-shrink_800/B4DZ7Bt6bEKcAg-/0/1781366499257?e=1782950400&v=beta&t=tkP6aH8m35l40kTYGKhSU37T8DtEvN36e5RrTrzNTGo',
+    'https://media.licdn.com/dms/image/v2/D4E22AQEKBK4NlFqyZQ/feedshare-shrink_1280/B4EZ5kj9l6HUAM-/0/1779803610132?e=1782950400&v=beta&t=1vqLfl1sODn2d2cFfCFSzZla7wIH_4FT6ii5PHiOhlw'
   ];
 
   return (

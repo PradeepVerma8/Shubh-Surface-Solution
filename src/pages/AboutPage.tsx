@@ -78,7 +78,7 @@ From day one, our commitment has been simple — quality first, customer first. 
             <div>
 
                 <img
-  src="/img/img.jpg"
+  src="/img/img.png"
   alt="Our Office"
   className="rounded-2xl shadow-2xl w-full h-96 object-cover"
 />

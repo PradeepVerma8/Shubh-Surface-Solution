@@ -55,7 +55,7 @@ const CatalogCard = ({ title, subtitle, description, sliderImages, printPath, pd
         className="absolute left-8 bottom-8 px-4 py-1 rounded-lg text-sm font-medium shadow-md"
         style={{ background: "linear-gradient(90deg,#fbbf24,#fb923c)", color: "#0f172a" }}
       >
-        Updated • 2025
+        Updated • 2026
       </div>
     </div>
 
@@ -176,6 +176,7 @@ const CatalogsSection = () => {
         "https://paintingdrive.com/blog/wp-content/uploads/2024/06/Laminate-Kitchen-Or-Acrylic-Kitchen-Which-Kitchen-Cabinet-Finish-is-the-Best.jpg",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95rPEyjYaNbVg14nZ2No3S8kAO4mNjiwjzA&s",
         "https://image.made-in-china.com/2f0j00ULMfVOqCfKkc/Solid-Color-Metallic-Color-1220-2440-1mm-Acrylic-Sheet-for-Kitchen-Cabinet-Door-ZH-8603-.webp",
+        "https://www.beautifulhomes.asianpaints.com/content/dam/asianpaintsbeautifulhomes/gallery/bathroom/modern-bathroom-with-marble-finish-walls-and-black-fixtures/luxury-modern-bathroom-with-black-accents.jpg.transform/bh-gallery-listing/image.webp"
       ],
       printPath: "/catalogs/acrylic-catalog-print.html",
       pdfPath: "/catalogs/acrylic-catalog.pdf",
